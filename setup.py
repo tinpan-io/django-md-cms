@@ -13,7 +13,6 @@ setup(
     include_package_data=True,
     license='BSD License',
     description='A simple Django CMS which reads markdown files from the filesystem based on the Django route and provides the Pagedown editor.',
-    long_description=README,
     long_description=open('README.md', encoding='utf-8').read(),
     url='https://github.com/FlipperPA/django-md-cms',
     author='Timothy Allen',
