@@ -18,8 +18,8 @@ setup(
     author='Timothy Allen',
     author_email='tim@pyphilly.org',
     install_requires=[
-        'django-pagedown==0.1.0',
-        'Markdown==2.6.2',
+        'django-pagedown==2.2.1',
+        'Markdown==3.3.4',
     ],
     classifiers=[
         'Environment :: Web Environment',
